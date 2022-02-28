@@ -42,7 +42,7 @@ Keras implementation for DeepAnat
 
 
 
-## 4. Reference
+## 6. Reference
 
 [1]  Li, Z., Fan, Q., Bilgic, B., Wang, G., Polimeni, J. R., Huang, S. Y., Tian, Q. (2022). Diffusion MRI data analysis assisted by deep learning synthesized anatomical images (DeepAnat) (Accepted at ISMRM 2022 (*Oral Presentation*), Submitted to *Medical Image Analysis*).
 
